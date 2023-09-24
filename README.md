@@ -1,5 +1,5 @@
 # Discoverr
-Discoverr is a cutting-edge search engine meticulously crafted from the ground up, designed to provide lightning-fast search results across an extensive database of 8,000 websites. This open-source project showcases a powerful combination of technologies, including a React-based user interface, Java for (crawling , indexing, ranking ),
+Discoverr is a cutting-edge search engine meticulously crafted from the ground up, designed to provide lightning-fast search results across an extensive database of 8,000 websites. This open-source project showcases a powerful combination of technologies, including a React-based user interface, Java for (crawling , indexing, ranking).
 # Project Background
 
 Discoverr is the culmination of a collaborative effort by a dedicated team of developers and tech enthusiasts who came together to create an efficient and high-speed search engine. We extend our heartfelt appreciation to the following team members for their invaluable contributions:
