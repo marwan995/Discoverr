@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mongodb.driver" type="repository">
+    <properties maven-id="org.mongodb:mongodb-driver:3.1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver/3.1.1/mongodb-driver-3.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/3.1.1/mongodb-driver-core-3.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/bson/3.1.1/bson-3.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

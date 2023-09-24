@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Resources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Resources/opennlp-uima-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Resources/jsoup-1.15.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Resources/opennlp-tools-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

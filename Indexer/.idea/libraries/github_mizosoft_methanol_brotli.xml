@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="github.mizosoft.methanol.brotli" type="repository">
+    <properties maven-id="com.github.mizosoft.methanol:methanol-brotli:1.6.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/mizosoft/methanol/methanol-brotli/1.6.0/methanol-brotli-1.6.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/mizosoft/methanol/methanol/1.6.0/methanol-1.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
